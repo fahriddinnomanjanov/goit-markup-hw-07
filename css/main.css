@@ -113,8 +113,7 @@ ol {
   transition: background-color 250ms linear;
 }
 
-.close-modal:hover,
-.close-modal:focus {
+.close-modal:hover, .close-modal:focus {
   background-color: var(--color-main);
 }
 
